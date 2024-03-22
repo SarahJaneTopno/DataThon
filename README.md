@@ -16,4 +16,5 @@ Subhoshri Pal
 
 Vaibhav Singh
 
-Contact for queries: (sarahjanetopno@gmailcom) 
+Contact for queries: [sarahjanetopno@gmailcom
+](url)
