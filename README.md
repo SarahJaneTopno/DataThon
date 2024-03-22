@@ -15,6 +15,3 @@ Akanksha Gupta
 Subhoshri Pal
 
 Vaibhav Singh
-
-Contact for queries: [sarahjanetopno@gmailcom
-](url)
