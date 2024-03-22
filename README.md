@@ -5,8 +5,11 @@ Problem statement 2: Extracting Legal Insights from FIR Images
 # Team: The Outliers
 # members:
 Sarah Jane Topno
+
 Akanksha Gupta
+
 Subhoshri Pal
+
 Vaibhav Singh
 
 Contact for queries: [(sarahjanetopno@gmailcom)] 
